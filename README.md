@@ -28,4 +28,4 @@ Try the [demo] on RawGit and search for 'im Bullit' or 'yt rick roll'.
   ```
 
 3. Host the HTML file in the cloud; CDN, S3, GitHub Pages, Nginx, etc
-4. Now set your browser's default search engine to the location of the hosted HTML file with the additional 'q' query paramter, e.g. `https://<mysite.com>/search.html?q=%s`
+4. Now set your browser's default search engine to the location of the hosted HTML file with the additional query parameter, e.g. `https://<mysite.com>/search.html?q=%s`
